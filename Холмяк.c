@@ -112,7 +112,7 @@ int main(){
     printf("odata OK \n");
     for(s=0;s<iw*ih;s++){
         color[s]=0;
-    };
+    }; 
     
     int d=80;
     for(i=0;i<iw*ih;i++){
